@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning English.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/magu.sakaue/ .
-  - My diary is kei-oguro.github.io/documents/diary .
+  - gists https://gist.github.com/kei-oguro
+  - diary kei-oguro.github.io/documents/diary
 
 <!---
 kei-oguro/kei-oguro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
