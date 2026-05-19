@@ -6,7 +6,7 @@
   - https://www.instagram.com/magu.sakaue/ .
   - https://www.linkedin.com/in/kei-oguro-6009ba381
   - gists https://gist.github.com/kei-oguro
-  - diary kei-oguro.github.io/documents/diary
+  - diary https://kei-oguro.github.io/documents/diary
 
 <!---
 kei-oguro/kei-oguro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
